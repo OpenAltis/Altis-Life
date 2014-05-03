@@ -1,4 +1,4 @@
-Altis-Life
+OpenAltis based of Altis Life by TAWTonic
 ==========
 
 Altis Life / Altis Life RPG is developed by Tonic / TAW_Tonic. This contains primarily the release contain and on-going development changes to the mission.
