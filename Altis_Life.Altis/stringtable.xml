@@ -2,29 +2,27 @@
 <Project name="Altis Life RPG">
 	<Package name="Global">
 		<Key ID="STR_Global_Close">
-			<Original>Close</close>
+			<Original>Schließen</close>
 		</Key>
 		<Key ID="STR_Global_Sell">
-			<Original>Sell</Original>
+			<Original>Verkaufen</Original>
 		</Key>
 		<Key ID="STR_Global_Buy">
-			<Original>Buy</Original>
+			<Original>Kaufen</Original>
 		</Key>
 		<Key ID="STR_Global_Give">
-			<Original>Give</Original>
+			<Original>Geben</Original>
 		</Key>
 		<Key ID="STR_Global_Use">
-			<Original>Use</Original>
+			<Original>Nutzen</Original>
 		</Key>
 		<Key ID="STR_Global_Remove">
-			<Original>Remove</Original>
+			<Original>Müll</Original>
 		</Key>
 		<Key ID="STR_Global_Settings">
-			<Original>Settings</Original>
-		</Key>
+			<Original>Einstellung</Original>
 		<Key ID="STR_Global_RentVeh">
-			<Original>Rent</Original>
-		</Key>
+			<Original>Mieten</Original>
 		<Key ID="STR_Global_NoSelection">
 			<Original>You did not select anything.</Original>
 		</Key>
